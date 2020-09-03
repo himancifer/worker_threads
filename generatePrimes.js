@@ -75,3 +75,8 @@ else{
     generatePrimes(workerData.start,workerData.range);
     parentPort.postMessage(primes);
 }
+
+
+
+
+//credits to Rich Trott
